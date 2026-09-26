@@ -1,66 +1,40 @@
-````markdown
 <h1 align="center">Hi 👋, I'm Siddhu Kumar</h1>
 
 <h3 align="center">
-Full Stack Developer • Software Engineer in Progress • DSA & AI/ML Learner
+Full Stack Developer | React Developer | Backend Enthusiast | DSA Learner
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Java;Building+Real-World+Applications;DSA+%7C+Problem+Solving;Exploring+AI+%26+Machine+Learning;Always+Learning+%26+Building" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Siddhu2008">
-    <img src="https://img.shields.io/github/followers/Siddhu2008?label=Followers&style=for-the-badge&color=00ff88" />
-  </a>
-  <a href="https://github.com/Siddhu2008?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-View%20Projects-111111?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://leetcode.com/u/Siddhu2008/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Real-World+Applications;DSA+in+Java;Exploring+AI+%26+Machine+Learning;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-🎓 **BE Information Technology Student**  
-💻 Aspiring **Full Stack Developer & Software Engineer**  
-📍 Mumbai, Maharashtra, India  
-☕ Currently solving **DSA problems in Java**  
-🤖 Exploring **AI, Machine Learning & Data Science**  
-🚀 Interested in building scalable and practical software  
-🎯 Preparing for **Software Engineering / SDE opportunities**
-
-I enjoy turning ideas into working applications and learning how
-software works from the frontend all the way to the database and backend.
-
-My current focus is becoming a strong software engineer by combining:
-
-**DSA + Full Stack Development + Databases + AI/ML + System Design**
+🎓 BE Information Technology Student
+💻 Full Stack Developer from Mumbai, India
+📚 Currently mastering **Data Structures & Algorithms in Java**
+🤖 Exploring **Artificial Intelligence & Machine Learning**
+⚡ Focused on building real-world applications
+🎯 Goal: Become a strong Software Engineer & Full Stack Developer
 
 ---
 
 # 🧠 Developer Mindset
 
-```text
-Learn → Build → Break → Debug → Improve → Repeat
-````
-
-✔ Problem-solving oriented
-✔ Learning by building real projects
-✔ Strong interest in backend systems
-✔ Focused on clean and responsive UI/UX
-✔ Interested in scalable application architecture
-✔ Continuously improving DSA and programming fundamentals
-✔ Curious about AI and intelligent applications
+✔ Strong problem-solving approach
+✔ Passion for building real-world projects
+✔ Consistent learner & self-improver
+✔ Focused on clean UI/UX + backend logic
+✔ Interested in scalable applications & system design
+✔ Learning through building and solving problems
 
 ---
 
 # 🛠️ Tech Stack
 
-## 🌐 Frontend
+## 🚀 Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind" />
@@ -68,7 +42,7 @@ Learn → Build → Break → Debug → Improve → Repeat
 
 * HTML5
 * CSS3
-* JavaScript
+* JavaScript (ES6+)
 * React.js
 * Next.js
 * Bootstrap
@@ -76,7 +50,7 @@ Learn → Build → Break → Debug → Improve → Repeat
 
 ---
 
-## ⚙️ Backend
+## ⚙️ Backend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,php" />
@@ -88,181 +62,129 @@ Learn → Build → Break → Debug → Improve → Repeat
 * Django
 * Flask
 * REST APIs
-* Authentication & Authorization
 
 ---
 
-## 🗄️ Databases
+## 🗄️ Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 </p>
 
-* MySQL
 * MongoDB
+* MySQL
 * PostgreSQL
-* SQL
-* Database Design
-* CRUD Operations
+* Prisma
 
 ---
 
-## ☕ Programming & CS
+## 🤖 AI & Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-* Java
 * Python
-* JavaScript
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Problem Solving
-* Database Management Systems
+* NumPy
+* Pandas
+* Scikit-learn
+* Matplotlib
+* Data Preprocessing
+* Feature Engineering
+* Classification
+* Regression
+* Linear Regression
 
 ---
 
-## 🔧 Tools
+## 🔧 Tools & Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker" />
 </p>
 
-* Git
-* GitHub
+* Git & GitHub
 * VS Code
 * Postman
 * Figma
 * Docker
-* REST API Testing
 
 ---
 
 # 📚 Currently Learning
 
-```text
-┌──────────────────────────────────────────────┐
-│              CURRENT LEARNING                │
-├──────────────────────────────────────────────┤
-│ ☕ Advanced DSA with Java                    │
-│ ⚛️  React & Modern Frontend                 │
-│ 🟢 Node.js & Backend Architecture           │
-│ 🗄️ Database Optimization                    │
-│ 🔐 Authentication & API Security             │
-│ 🤖 Machine Learning                          │
-│ 🧠 Artificial Intelligence                   │
-│ 🏗️ System Design Fundamentals               │
-│ 🚀 Deployment & DevOps                       │
-└──────────────────────────────────────────────┘
-```
+* Advanced DSA in Java
+* Backend Architecture
+* API Security & Authentication
+* Database Optimization
+* System Design Fundamentals
+* Machine Learning
+* AI-powered Applications
+* Deployment & DevOps Basics
 
 ---
 
-# 🚀 Featured Projects
+# 💼 Featured Projects
 
-## 🗣️ BolKhata — Voice-First Digital Ledger
+## 🧾 BolKhata — Voice-First Digital Ledger
 
-A voice-first digital **khata / ledger application** designed for
-small vendors and shopkeepers.
+A voice-first digital ledger designed for small vendors and shopkeepers to manage daily transactions and **udhaar** easily.
 
-The idea is to make transaction recording easier through voice commands
-in languages such as Hindi, Marathi and English.
+### Features:
 
-### Key Features
+* Voice-based transaction entry
+* Hindi, Marathi & English support
+* Customer management
+* Udhaar tracking
+* Daily sales & outstanding calculations
+* AI/NLP-based information extraction
+* Low-stock reminders
 
-* 🎙️ Voice-based transaction entry
-* 👤 Customer management
-* 💰 Udhaar / credit tracking
-* 📊 Daily transaction records
-* 🔎 Transaction filtering
-* 📦 Low-stock reminder concept
-* 🤖 Voice transcription & NLP extraction
-* 🔐 Authentication system
+### Tech Used:
 
-### Tech
-
-`Node.js` `PostgreSQL` `Prisma` `REST API` `AI/NLP` `Voice`
+`Node.js` `PostgreSQL` `Prisma` `AI/NLP` `REST API`
 
 ---
 
 ## 🎮 Gaming Station Center Management System
 
-A database-driven management system for a gaming station / gaming center.
+A web-based management system for managing gaming station center operations.
 
-The project focuses on understanding how a frontend communicates with
-a PHP backend and how application data is stored and managed using MySQL.
+### Features:
 
-### Key Features
+* Customer Management
+* Gaming Station Management
+* CRUD Operations
+* Transaction Management
+* MySQL Database Integration
+* Admin/Management functionality
 
-* 🎮 Gaming station management
-* 👤 Customer management
-* 🕹️ Station records
-* 📊 Database-driven dashboard
-* ➕ Create records
-* 📖 Read records
-* ✏️ Update records
-* 🗑️ Delete records
-* 🔗 PHP + MySQL connectivity
+### Tech Used:
 
-### Tech
+`PHP` `MySQL` `HTML` `CSS` `JavaScript`
 
-`PHP` `MySQL` `HTML` `CSS` `JavaScript` `CRUD`
-
-### Repository
-
-<a href="https://github.com/Siddhu2008/Gaming-Station-Center-Management-System/">
-View on GitHub →
-</a>
+🔗 <a href="https://github.com/Siddhu2008/Gaming-Station-Center-Management-System/" target="_blank">View Project on GitHub</a>
 
 ---
 
 ## 🎓 CampusNotes
 
-A student-focused web application concept for organizing and accessing
-academic resources.
+A student-focused platform designed to organize academic resources and make learning materials easier to access.
 
-### Focus
+### Focus:
 
-* 📚 Academic resources
-* 📝 Notes management
-* 🔎 Easy content access
-* 🎨 Student-friendly interface
-* 🌐 Web application architecture
-
-### Tech
-
-`JavaScript` `HTML` `CSS` `Database`
-
----
-
-## 📊 Machine Learning Projects & Experiments
-
-Currently building my understanding of machine learning through
-hands-on experiments.
-
-### Topics
-
-* Data preprocessing
-* Feature engineering
-* Classification
-* Regression
-* Linear Regression
-* Model evaluation
-* Data analysis
-* Machine learning fundamentals
-
-### Tech
-
-`Python` `NumPy` `Pandas` `Scikit-learn` `Matplotlib`
+* Student Productivity
+* Academic Resources
+* Web Development
+* User-Friendly Interface
 
 ---
 
 # 🧩 DSA Journey
 
-Currently strengthening my problem-solving skills using **Java**.
+Currently strengthening problem-solving skills with **Java**.
 
-### Topics I'm Practicing
+### Practicing:
 
 * Arrays
 * Strings
@@ -270,220 +192,103 @@ Currently strengthening my problem-solving skills using **Java**.
 * Two Pointers
 * Sliding Window
 * Linked Lists
-* Stack
-* Queue
-* Sorting
-* Searching
+* Sorting Algorithms
 * Recursion
 * Trees
 * Dynamic Programming
 
-### My Approach
+### Primary Language:
 
-```text
-Understand the Problem
-        ↓
-Find the Approach
-        ↓
-Analyze Time Complexity
-        ↓
-Write the Solution
-        ↓
-Test Edge Cases
-        ↓
-Optimize
-```
-
-### Coding Platform
-
-<a href="https://leetcode.com/u/Siddhu2008/">
-  <img src="https://img.shields.io/badge/LeetCode-Siddhu2008-orange?style=for-the-badge&logo=leetcode" />
-</a>
+☕ Java
 
 ---
 
 # 📈 GitHub Analytics
 
 <p align="center">
-
-<img height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Siddhu2008&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhu2008&layout=compact&theme=tokyonight&hide_border=true" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Siddhu2008&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-
-<img
- src="https://github-readme-streak-stats.herokuapp.com/?user=Siddhu2008&theme=tokyonight&hide_border=true"
-/>
-
+  <img src="https://streak-stats.demolab.com/?user=Siddhu2008&theme=tokyonight" />
 </p>
 
----
-
-# 🏗️ My Development Workflow
-
-```text
-💡 Idea
-   ↓
-📝 Requirements
-   ↓
-🎨 UI / Architecture
-   ↓
-💻 Development
-   ↓
-🗄️ Database Integration
-   ↓
-🧪 Testing & Debugging
-   ↓
-🚀 Deployment
-   ↓
-📈 Improve
-```
-
-I don't just want to write code.
-
-I want to understand **why the system works, how the components
-communicate, and how it can be improved.**
-
----
-
-# 🎯 2026 Goals
-
-* [ ] Master Full Stack Development
-* [ ] Become strong in DSA & Problem Solving
-* [ ] Build production-level applications
-* [ ] Learn advanced backend architecture
-* [ ] Strengthen database and system design knowledge
-* [ ] Build practical AI/ML applications
-* [ ] Contribute to Open Source
-* [ ] Improve GitHub portfolio
-* [ ] Prepare for Software Engineering interviews
-* [ ] Get an SDE / Software Engineering opportunity
-
----
-
-# 🌱 Long-Term Vision
-
-My goal is to become a strong **Software Engineer** capable of working
-across the complete technology stack.
-
-```text
-                SOFTWARE ENGINEER
-                       │
-        ┌──────────────┼──────────────┐
-        │              │              │
-     FRONTEND       BACKEND        DATABASE
-        │              │              │
-      React          Node.js        MySQL
-      Next.js        APIs           MongoDB
-        │              │              │
-        └──────────────┼──────────────┘
-                       │
-                COMPUTER SCIENCE
-                       │
-              ┌────────┼────────┐
-              │        │        │
-             DSA      AI/ML   SYSTEM DESIGN
-              │        │        │
-              └────────┼────────┘
-                       │
-                       ↓
-               REAL-WORLD PRODUCTS
-```
-
----
-
-# 💡 Development Philosophy
-
-> **"Build projects. Solve problems. Understand the fundamentals.
-> Stay consistent."**
-
-I believe becoming a good developer is not about knowing every
-technology.
-
-It's about being able to **learn quickly, solve problems and build
-useful things.**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhu2008&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 # 🌐 Portfolio & Profiles
 
-<p align="center">
+### 🚀 Portfolio
 
-<a href="https://siddhudev.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-siddhudev.vercel.app-00ff88?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+🔗 <a href="https://siddhudev.vercel.app/" target="_blank">siddhudev.vercel.app</a>
 
-<a href="https://github.com/Siddhu2008">
-<img src="https://img.shields.io/badge/GitHub-Siddhu2008-181717?style=for-the-badge&logo=github" />
-</a>
+### 💻 GitHub
 
-<a href="https://leetcode.com/u/Siddhu2008/">
-<img src="https://img.shields.io/badge/LeetCode-Siddhu2008-orange?style=for-the-badge&logo=leetcode" />
-</a>
+🔗 <a href="https://github.com/Siddhu2008" target="_blank">github.com/Siddhu2008</a>
 
-<a href="https://www.linkedin.com/in/siddhu-kumar-dev/">
-<img src="https://img.shields.io/badge/LinkedIn-Siddhu%20Kumar-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
+### 🧠 LeetCode
 
+🔗 <a href="https://leetcode.com/u/Siddhu2008/" target="_blank">leetcode.com/u/Siddhu2008</a>
+
+### 💼 LinkedIn
+
+🔗 <a href="https://www.linkedin.com/in/siddhu-kumar-dev/" target="_blank">linkedin.com/in/siddhu-kumar-dev</a>
+
+---
+
+# 🎯 2026 Goals
+
+🔄 Master Full Stack Development
+🔄 Become Strong in DSA & Problem Solving
+🔄 Build Production-Level Applications
+🔄 Build AI-powered Applications
+🔄 Contribute to Open Source
+🔄 Crack Software Development Interviews
+🔄 Improve System Design Knowledge
+
+---
+
+# 💡 Development Philosophy
+
+> “Build projects, solve problems, understand the fundamentals, and keep improving.”
+
+---
+
+# 📊 Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Siddhu2008&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 # 🤝 Connect With Me
 
-<p align="center">
+<p align="left">
 
-<a href="https://github.com/Siddhu2008">
-  <img src="https://skillicons.dev/icons?i=github" height="50" />
-</a>
-&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/siddhu-kumar-dev/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-</a>
-&nbsp;&nbsp;
-
-<a href="https://leetcode.com/u/Siddhu2008/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
-       height="50" />
-</a>
-&nbsp;&nbsp;
-
-<a href="https://siddhudev.vercel.app/">
-  <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png"
-       height="50" />
+<a href="https://github.com/Siddhu2008" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="45" />
 </a>
 
-</p>
+<a href="https://www.linkedin.com/in/siddhu-kumar-dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
 
----
+<a href="https://leetcode.com/u/Siddhu2008/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="45" />
+</a>
 
-# 📊 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Siddhu2008&label=Profile%20Views&color=00ff88&style=for-the-badge" />
+<a href="https://siddhudev.vercel.app/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" height="45" />
+</a>
 
 </p>
 
 ---
 
 <h3 align="center">
-
-⭐ Build Projects • Solve Problems • Keep Learning ⭐
-
+⭐ “Build Projects • Solve Problems • Stay Consistent”
 </h3>
-
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&duration=3500&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+great.;Keep+learning.+Keep+building.+🚀" />
-
-</p>
-```
-
-One important change: I removed technologies like **Django/Flask/Next.js as if they were established expertise** and instead kept them in the broader stack/learning context. That makes the README more credible for recruiters—your profile should distinguish between technologies you've actually built with and technologies you're currently learning.
